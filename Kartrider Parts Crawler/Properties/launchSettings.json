@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Kartrider Parts Crawler": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Extern\" \"귀요미마카롱\" \"QSeven\" \"mystic중선\" \"youtubemuse\" \"결정선택장애\" \"푸푸와밍밍이\""
+    }
+  }
+}
